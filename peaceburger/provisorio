@@ -1,0 +1,20 @@
+/*if (quadro == 0){
+     quadro = quadro + 1445;
+     container.style.transform = 'translateX(-1445px))';
+  }
+  else if (quadro == 1445)
+    {
+      quadro = quadro + 1445;
+      container.style.transform = 'translateX(-2890px))';
+    }
+  else if (quadro == 2890)
+   {
+      quadro = quadro + 1445;
+      container.style.transform = 'translateX(-4335px))';
+   }
+
+   else 
+    {
+       quadro = 0;
+       container.style.transform = 'translateX(-0px))';
+    }*/
